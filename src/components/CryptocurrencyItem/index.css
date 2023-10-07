@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.currency-logo {
+  width: 40px;
+  padding: 6px;
+}
+.names {
+  color: #ffffff;
+  padding: 12px;
+  font-size: 10px;
+  font-family: 'Roboto';
+}
+.rows {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

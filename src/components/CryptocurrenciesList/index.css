@@ -1,0 +1,50 @@
+/* Write your CSS code here */
+.container-two {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #00e7ff;
+  font-family: 'Roboto';
+  font-size: 26px;
+  text-align: center;
+}
+.image {
+  width: 300px;
+}
+.nav-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #092e33;
+  border-radius: 6px;
+  flex-grow: 0;
+}
+
+.nav-cont2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-currency {
+  color: #ffffff;
+  font-size: 14px;
+  font-family: 'Roboto';
+  padding: 15px;
+}
+.currency-container {
+  width: 300px;
+  border-style: solid;
+  border-color: #00e7ff;
+  border-width: 1px;
+  border-radius: 6px;
+  list-style-type: none;
+}
+.colour {
+  background-color: #092e33;
+  flex-grow: 10;
+}
